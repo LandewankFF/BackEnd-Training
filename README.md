@@ -4,7 +4,7 @@
 <li> npm init --y </li>
 <li> npm install @hapi/hapi </li>
 <li> npm install eslint --save-dev</li>
-<li> n npx eslint --init  </li>
+<li> npx eslint --init  </li>
 <li> npm install nodemon --save-dev  </li>
 <li> npm install nanoid  </li>
 <li> donwload postman  </li>
