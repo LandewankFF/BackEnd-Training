@@ -1,6 +1,6 @@
 # BackEnd-Training
 
-<h1>==========First setup==========</h1>h1>
+<h1>==========First setup==========</h1>>
 <li> npm init --y </li>
 <li> npm install @hapi/hapi </li>
 <li> npm install eslint --save-dev</li>
